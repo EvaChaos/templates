@@ -39,8 +39,10 @@ npm start
 
 - **Example task** 
 
-  *Title*: Finish Project Report 
-  *Description*: Complete the final draft of the project.  
+  *Title*: Finish Project Report
+  
+  *Description*: Complete the final draft of the project.
+   
   *Due Date*: 2024-10-30
 
 - **Example of tagging**
