@@ -51,11 +51,20 @@ npm start
 
 We welcome contributions to TaskMaster! Please follow these steps:
 
-1. **Fork the repository**.
-2. **Create a branch**: use a descriptive name.
-3. **Make changes**: follow our coding style.
-4. **Commit**: write clear commit messages.
-5. **Submit a pull request**.
+1. Fork the repository.
+2. Create a branch.
+
+ Use a descriptive name.
+
+3. Make changes.
+
+ Follow our coding style.
+
+4. Commit.
+
+Write clear commit messages.
+
+5. Submit a pull request.
 
 ## License
 
