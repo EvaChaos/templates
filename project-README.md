@@ -16,7 +16,7 @@ TaskMaster is a user-friendly task management app that helps individuals and tea
 
 Clone the repository:
 
-``
+```
 git clone https://github.com/yourusername/TaskMaster.git
 
 cd TaskMaster
@@ -24,5 +24,5 @@ cd TaskMaster
 npm install
 
 npm start
-``
+```
 
