@@ -64,7 +64,7 @@ We welcome contributions to TaskMaster! Please follow these steps:
 
 4. Commit.
 
-  Write clear commit messages.
+   Write clear commit messages.
 
 5. Submit a pull request.
 
