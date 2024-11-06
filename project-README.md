@@ -14,15 +14,24 @@ TaskMaster is a user-friendly task management app that helps individuals and tea
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository.
 
 ```
 git clone https://github.com/yourusername/TaskMaster.git
 
 cd TaskMaster
 
+```
+2. Install the dependencies.
+
+```
 npm install
 
+```
+3. Start the development server.
+
+```
 npm start
+
 ```
 
