@@ -39,13 +39,13 @@ npm start
 
 - **Example task** 
 
-  *Title*: "Finish Project Report"  
-  *Description*: "Complete the final draft of the project."  
-  *Due Date*: "2024-10-30"
+  *Title*: Finish Project Report 
+  *Description*: Complete the final draft of the project.  
+  *Due Date*: 2024-10-30
 
 - **Example of tagging**
 
-   Use tags like "Urgent", "Work", or "Personal" to categorize tasks.
+   Use tags like **Urgent**, **Work**, or **Personal** to categorize tasks.
 
 ## Contribution Guidelines
 
@@ -60,8 +60,6 @@ We welcome contributions to TaskMaster! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Include licensing information for dependencies.
 
 ## Contact details 
 
