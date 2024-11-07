@@ -26,9 +26,9 @@ Here are a few projects I’ve worked on, each a little tech superhero in its ow
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=User&show_icons=true&theme=radical)
 
-## 🤝 Let’s Connect!
+## Let’s Connect!
 
 If you're up for teaming up on a project, chatting about the coolest coding tricks, or simply exchanging meme-worthy moments, let’s connect!
 
