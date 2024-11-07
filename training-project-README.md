@@ -24,7 +24,9 @@ Here are a few projects I’ve worked on, each a little tech superhero in its ow
 - **[Project Name 2](https://github.com/yourusername/project2)** – My original solution for simplifying [problem].
 - **[Project Name 3](https://github.com/yourusername/project3)** – A small prototype that rapidly transformed into something larger than life.
 
-## GitHub Stats
+## GitHub stats
+
+Here is an example of how your stats on GitHub look like.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=User&show_icons=true&theme=radical)
 
