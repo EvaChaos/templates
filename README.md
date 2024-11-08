@@ -5,7 +5,7 @@ Welcome to the Template repo! Here, you'll find ready-to-use README templates fo
 ## 📂 Available templates
 - **Profile README template**: a customizable template to showcase your GitHub profile.
 - **Project README template**: a well-structured example of how a project README can look like.
-- **README Checklist (Bonus!)**: a quick checklist to ensure your README has all the essential sections neatly organized.
+- **README checklist (bonus!)**: a quick checklist to ensure your README has all the essential sections neatly organized.
 
 ## 💡 How to get started
 1. **Download or clone**: grab the repo to access all templates.
